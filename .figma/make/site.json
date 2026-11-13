@@ -1,0 +1,10 @@
+{
+  "description": "A learning community for freelance film and entertainment professionals to build business skills for life between jobs and on set.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
